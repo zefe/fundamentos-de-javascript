@@ -1,4 +1,5 @@
-// El método reduce() nos permite reducir, mediante una función que se aplica a cada uno de los elemento del array, todos los elementos de dicho array, a un valor único.
+// El método reduce() nos permite reducir, mediante una función que
+// se aplica a cada uno de los elemento del array, todos los elementos de dicho array, a un valor único.
 
 var paula = {
 	nombre: 'Paula',
